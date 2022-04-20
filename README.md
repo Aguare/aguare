@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aguare</h1>
 <h3 align="center">A passionate developer from Guatemala</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aguare" alt="aguare" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Spring**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aguare&show_icons=true&locale=en&layout=compact" alt="aguare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguare&show_icons=true&locale=en" alt="aguare" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aguare&" alt="aguare" /></p>
